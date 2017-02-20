@@ -1,3 +1,7 @@
-# My Awesome Book
+# 新聞資料處理與視覺呈現
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+* [作業繳交說明](/hw1/readme.md)
+* [作業繳交區](/hw2/homework.md)
+
+
+

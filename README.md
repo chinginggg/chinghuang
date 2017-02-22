@@ -6,7 +6,7 @@
 
 * [作業繳交說明](/hw1/readme.md)
 * [作業繳交區](/hw2/homework.md)
-* 課程社團
+* [課程社團](https://www.facebook.com/groups/1675329399434281/)
 
 
 
